@@ -10,9 +10,9 @@ Krzysztof N (https://github.com/KrzucH)
 
 ## Application video:
 
-[![IMAGE ALT TEXT](Pictures/YouTubeCar.png)](https://www.youtube.com/watch?v=kSn_TcshpHE&ab_channel=SBMLabel "3D Project - CarShow")
+[![IMAGE ALT TEXT](Pictures/YouTubeCar.png)](https://www.youtube.com/watch?v=YQUtMBHeb8Q&ab_channel=KrzysztofNowak "3D Project - CarShow")
 
-https://www.youtube.com/watch?v=kSn_TcshpHE&ab_channel=SBMLabel
+https://www.youtube.com/watch?v=YQUtMBHeb8Q&ab_channel=KrzysztofNowak
 
 ## Pictures
 
